@@ -1,0 +1,12 @@
+
+venv/
+cicflowmeter_env/
+.idea/
+__pycache__/
+*.pyc
+
+runtime/
+*.pcap
+*.pcapng
+
+.env
